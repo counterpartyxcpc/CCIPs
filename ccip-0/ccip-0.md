@@ -109,7 +109,7 @@
 **6p.** **[Status]:** The Staus header specifies the current status of the CCIP.  
 **6q.** **[Type]:** The Type header specifies the type of CCIP: Standards Track, Informational, or Process.  
 **6r.** **[Created]:** The Created header records the date that the CCIP was assigned a number.  
-**6s.** [Post-History]: The Post-History header is used to record the dates of when new versions of the CCIP are posted to the (https://talk.counterparty.cash) forums.  
+**6s.** **[Post-History]:** The Post-History header is used to record the dates of when new versions of the CCIP are posted to the (https://talk.counterparty.cash) forums.  
 **6t.** Both headers should be in yyyy-mm-dd format, e.g. 2001-08-14.  
 **6u.** **[Requires]:** The Requires header indicates the CCIP number(s) that the CCIP depends on.  
 **6v.** **[Replaces]:** The Replaces header is optionally used to define the CCIP number(s) the the CCIP replaces.  
