@@ -9,7 +9,7 @@
   Updated and adapted for XCPCash : 2018-02-24
 </pre>
 
-1. What is a CCIP?  
+# 1. What is a CCIP?  
 1a. CCIP stands for Counterparty Cash Improvement Proposal (the "CCIP"). A CCIP is a design document providing information to the Counterparty Cash Assiciation (CCA), or describing a new feature for Counterparty Cash or its processes or environment.  
 1b. The CCIP should provide a concise technical specification.  
 1c. Authors MUST outline the feature and a rationale for the feature.  
