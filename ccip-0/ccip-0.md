@@ -130,30 +130,30 @@
 **9b.** There is a Counterparty Cash dev mailing list (the "dev-list") at [mailing-dev-list](http://counterparty.cash/mailman/listinfo/mailing-dev-list_counterparty.cash).  
 
 ## 10. CCIP Editor Responsibilities & Workflow  
-10a. A CCIP editor must belong to the (https://talk.counterparty.cash) forums.  
-10b. All CCIP related correspondence should be sent (or CC'd) to the dev-list.  
+**10a.** A CCIP editor must belong to the (https://talk.counterparty.cash) forums.  
+**10b.** All CCIP related correspondence should be sent (or CC'd) to the dev-list.  
 
 ## 11. CCIP Editor(s) role(s) - each new CCIP that comes into an editor does the following:  
-11a. Read each CCIP to check if it is ready: sound and complete.  
-11b. The ideas must make technical sense, even if they don't seem likely to be accepted.  
-11c. The title should accurately describe the content.  
-11d. Edit the CCIP for language (spelling, grammar, sentence structure, etc.), markup (for reST CCIPs), code style.  
-11e. If the CCIP isn't ready, the editor(s) will send it back to the author for revision(s), with specific instruction(s).  
-11f. Once the CCIP is ready for the repository, the CCIP editor will:  
-11g. Assign a CCIP number (almost always just the next available number, but sometimes it's a special/joke number, like 666, 420 or 3141).  
-11h. Add the CCIP to the [CounterpartyXCPC/CCIPs](https://github.com/CounterpartyXCPC/CCIPs) repository on GitHub.  
-11i. List the CCIP in [README.md](https://github.com/CounterpartyXCPC/CCIPs/blob/master/README.md)  
-11j. Send email back to the CCIP author with next steps (post to (https://talk.counterparty.cash) forums).  
-11k. Many CCIPs are written and maintained by developers with write access to the Counterparty Cash codebase.  
-11l. The CCIP editors monitor CCIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.  
-11m. The editors don't pass judgement on CCIPs.  
-11n. We merely do the administrative & editorial part.  
-11o. Except for times when there's relatively low volume.  
+**11a.** Read each CCIP to check if it is ready: sound and complete.  
+**11b.** The ideas must make technical sense, even if they don't seem likely to be accepted.  
+**11c.** The title should accurately describe the content.  
+**11d.** Edit the CCIP for language (spelling, grammar, sentence structure, etc.), markup (for reST CCIPs), code style.  
+**11e.** If the CCIP isn't ready, the editor(s) will send it back to the author for revision(s), with specific instruction(s).  
+**11f.** Once the CCIP is ready for the repository, the CCIP editor will:  
+**11g.** Assign a CCIP number (almost always just the next available number, but sometimes it's a special/joke number, like 666, 420 or 3141).  
+**11h.** Add the CCIP to the [CounterpartyXCPC/CCIPs](https://github.com/CounterpartyXCPC/CCIPs) repository on GitHub.  
+**11i.** List the CCIP in [README.md](https://github.com/CounterpartyXCPC/CCIPs/blob/master/README.md)  
+**11j.** Send email back to the CCIP author with next steps (post to (https://talk.counterparty.cash) forums).  
+**11k.** Many CCIPs are written and maintained by developers with write access to the Counterparty Cash codebase.  
+**11l.** The CCIP editors monitor CCIP changes, and correct any structure, grammar, spelling, or markup mistakes we see.  
+**11m.** The editors don't pass judgement on CCIPs.  
+**11n.** We merely do the administrative & editorial part.  
+**11o.** Except for times when there's relatively low volume.  
 
 ## 12. History  
-12a. This document was derived heavily from Bitcoin's [BIP-0001](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki), which was derived heavily from Python's PEP-0001.  
-12b. In many places text was simply copied and modified.  
-12c. PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger.  
-12d. They are not responsible for its use in the Counterparty Cash Improvement Process, and should not be bothered with technical questions specific to Counterparty Cash or the CCIP process.  
-12e. Please direct all comments to the [talk.counterparty.cash forums](https://counterpartytalk.org/c/development) or the dev-list.  
-12f. This was then here updated in Feb 2018 for Counterparty Cash Association (CCA) by [Julian Smith](mailto:julian.smith@blockfreight.com)  
+**12a.** This document was derived heavily from Bitcoin's [BIP-0001](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki), which was derived heavily from Python's PEP-0001.  
+**12b.** In many places text was simply copied and modified.  
+**12c.** PEP-0001 text was written by Barry Warsaw, Jeremy Hylton, and David Goodger.  
+**12d.** They are not responsible for its use in the Counterparty Cash Improvement Process, and should not be bothered with technical questions specific to Counterparty Cash or the CCIP process.  
+**12e.** Please direct all comments to the [talk.counterparty.cash forums](https://counterpartytalk.org/c/development) or the dev-list.  
+**12f.** This was then here updated in Feb 2018 for Counterparty Cash Association (CCA) by [Julian Smith](mailto:julian.smith@blockfreight.com)  
