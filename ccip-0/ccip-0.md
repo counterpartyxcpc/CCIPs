@@ -98,25 +98,25 @@
 **6e.** [CCIP]: The unique identifyer (number) for the CCIP (once allocated).  
 **6f.** [Title]: The title of the CCIP (limited to a maximum of 44 characters)  
 **6g.** [Author]: Lists the names, and optionally the email addresses of the author(s)/owner(s) of the CCIP.  
-**6g.** The format of the Author header value must be:  
-**6h.** Satoshi Nakamoto <satoshin@gmx.com>  
-**6i.** If the email address is included, and just:  
-**6j.** "Satoshi Nakamoto" or "Nakamoto, Satoshi" if the address is not given.  
-**6k.** If there are multiple authors, each should be on a separate line following the RFC 2822 continuation line conventions.  
-**6l.** Note: The Resolution header is required for Standards Track CCIPs only. It contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
-**6m.** [Workgroup]: The URL where the CCIP is being discussed while it is in private discussions, usually during the initial draft and development period.  
-**6n.** No Workgroup URL is necessary if the CCIP is being discussed privately with the author, or on the Counterparty Cash slack.  
-**6o.** [Status]: The Staus header specifies the current status of the CCIP.  
-**6p.** [Type]: The Type header specifies the type of CCIP: Standards Track, Informational, or Process.  
-**6q.** [Created]: The Created header records the date that the CCIP was assigned a number.  
-**6r.** [Post-History]: The Post-History header is used to record the dates of when new versions of the CCIP are posted to the (https://talk.counterparty.cash) forums.  
-**6s.** Both headers should be in yyyy-mm-dd format, e.g. 2001-08-14.  
-**6t.** [Requires]: The Requires header indicates the CCIP number(s) that the CCIP depends on.  
-**6u.** [Replaces]: The Replaces header is optionally used to define the CCIP number(s) the the CCIP replaces.  
-**6v.** [Superseded-By]: The Superseded-By header indicates that a CCIP is rendered obsolete by a later document.  
-**6w.** The value is the number of the CCIP that replaces the current document.  
-**6x.** The newer CCIP must have a Replaces header containing the number of the CCIP that it rendered obsolete.  
-**6y.** [Resolution]: The Replaces header contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
+**6h.** The format of the Author header value must be:  
+**6i.** Satoshi Nakamoto <satoshin@gmx.com>  
+**6j.** If the email address is included, and just:  
+**6k.** "Satoshi Nakamoto" or "Nakamoto, Satoshi" if the address is not given.  
+**6l.** If there are multiple authors, each should be on a separate line following the RFC 2822 continuation line conventions.  
+**6m.** Note: The Resolution header is required for Standards Track CCIPs only. It contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
+**6n.** [Workgroup]: The URL where the CCIP is being discussed while it is in private discussions, usually during the initial draft and development period.  
+**6o.** No Workgroup URL is necessary if the CCIP is being discussed privately with the author, or on the Counterparty Cash slack.  
+**6p.** [Status]: The Staus header specifies the current status of the CCIP.  
+**6q.** [Type]: The Type header specifies the type of CCIP: Standards Track, Informational, or Process.  
+**6r.** [Created]: The Created header records the date that the CCIP was assigned a number.  
+**6s.** [Post-History]: The Post-History header is used to record the dates of when new versions of the CCIP are posted to the (https://talk.counterparty.cash) forums.  
+**6t.** Both headers should be in yyyy-mm-dd format, e.g. 2001-08-14.  
+**6u.** [Requires]: The Requires header indicates the CCIP number(s) that the CCIP depends on.  
+**6v.** [Replaces]: The Replaces header is optionally used to define the CCIP number(s) the the CCIP replaces.  
+**6w.** [Superseded-By]: The Superseded-By header indicates that a CCIP is rendered obsolete by a later document.  
+**6x.** The value is the number of the CCIP that replaces the current document.  
+**6y.** The newer CCIP must have a Replaces header containing the number of the CCIP that it rendered obsolete.  
+**6z.** [Resolution]: The Replaces header contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
 
 ## 7. Auxiliary Files  
 **7a.** CCIPs may include auxiliary files such as diagrams. Such files must be named CCIP-XXXX-Y.ext, where "XXXX" is the CCIP number, "Y" is a serial number (starting at 1), and "ext" is replaced by the actual file extension (e.g. "png").  
