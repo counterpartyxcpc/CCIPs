@@ -9,12 +9,12 @@
   Updated and adapted for XCPCash : 2018-02-24
 </pre>
 
-1. What is a CCIP?
-1a. CCIP stands for Counterparty Cash Improvement Proposal (the "CCIP"). A CCIP is a design document providing information to the Counterparty Cash Assiciation (CCA), or describing a new feature for Counterparty Cash or its processes or environment.
-1b. The CCIP should provide a concise technical specification.
-1c. Authors MUST outline the feature and a rationale for the feature.
-1d. We intend CCIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Counterparty Cash. The CCIP author(s) is responsible for building consensus within the community and documenting dissenting opinions.
-1e. Because the CCIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
+1. What is a CCIP?\s\s
+1a. CCIP stands for Counterparty Cash Improvement Proposal (the "CCIP"). A CCIP is a design document providing information to the Counterparty Cash Assiciation (CCA), or describing a new feature for Counterparty Cash or its processes or environment.\s\s
+1b. The CCIP should provide a concise technical specification.\s\s
+1c. Authors MUST outline the feature and a rationale for the feature.\s\s
+1d. We intend CCIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Counterparty Cash. The CCIP author(s) is responsible for building consensus within the community and documenting dissenting opinions.\s\s
+1e. Because the CCIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.\s\s
 
 2. CCIP Types: There are three Types of CCIP.
 2a. (1) Standards Track:
