@@ -54,7 +54,8 @@
 3n. A CCIP can also be "Rejected". Perhaps after all is said and done it was not a good idea. It is still important to have a record of this fact.
 3o. CCIPs can also be superseded by a different CCIP, rendering the original obsolete. This is intended for Informational CCIPs, where version 2 of an API can replace version 1.
 3p. The possible paths of the status of CCIPs are as follows:
-<img src=https://raw.githubusercontent.com/CounterpartyXCPC/CCIPs/master/ccip-0/ccip-0_workflow_v1.svg></img>
+![Alt text](https://raw.githubusercontent.com/CounterpartyXCPC/CCIPs/master/ccip-0/ccip-0_workflow_v1.svg?sanitize=true)
+<img src="https://raw.githubusercontent.com/CounterpartyXCPC/CCIPs/master/ccip-0/ccip-0_workflow_v1.svg?sanitize=true">
 3q. Some Informational and Process CCIPs may also have a status of "Open" if they are never meant to be completed. E.g. CCIP 1 (this CCIP).
 
 4. What belongs in a successful CCIP?
