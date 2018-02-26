@@ -104,7 +104,7 @@
 **6k.** "Satoshi Nakamoto" or "Nakamoto, Satoshi" if the address is not given.  
 **6l.** If there are multiple authors, each should be on a separate line following the RFC 2822 continuation line conventions.  
 **6m.** Note: The Resolution header is required for Standards Track CCIPs only. It contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
-**6n.** **[Workgroup]:** The URL where the CCIP is being discussed while it is in private discussions, usually during the initial draft and development period.  
+**6n.** **\*[Workgroup]:** The URL where the CCIP is being discussed while it is in private discussions, usually during the initial draft and development period.  
 **6o.** No Workgroup URL is necessary if the CCIP is being discussed privately with the author, or on the Counterparty Cash slack.  
 **6p.** **[Status]:** The Staus header specifies the current status of the CCIP.  
 **6q.** **[Type]:** The Type header specifies the type of CCIP: Standards Track, Informational, or Process.  
