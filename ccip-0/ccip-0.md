@@ -119,7 +119,7 @@
 **6z.** **\*[Resolution]:** The Replaces header contains a URL that should point to an email message, such as a dev-mailing-list server and applicable URI or another web resource where the pronouncement about the CCIP's acceptance is made, such as a dedicated sub project site 'mycoolproject.io' or a Tweet tagging #XCPC AND #CCIP published by one of the identified CCIP authors or the @XCPCash account.  
 
 ## 7. Auxiliary Files  
-**7a.** CCIPs may include auxiliary files such as diagrams. Such files must be named CCIP-XXXX-Y.ext, where "XXXX" is the CCIP number, "Y" is a serial number (starting at 1), and "ext" is replaced by the actual file extension (e.g. "png").  
+**7a.** CCIPs may include auxiliary files such as diagrams. Such files must be named CCIP-XXXX-Y.ext, where "XXXX" is the CCIP number, "Y" is a serial number (starting at 0), and "ext" is replaced by the actual file extension (e.g. "png").  
 
 ## 8. Transferring CCIP Ownership  
 **8a.** It occasionally becomes necessary to transfer ownership of CCIPs to a new champion. In general, we'd like to retain the original author as a co-author of the transferred CCIP, but that's really up to the original author. A good reason to transfer ownership is because the original author no longer has the time or interest in updating it or following through with the CCIP process, or has fallen off the face of the 'net (i.e. is unreachable or not responding to email). A bad reason to transfer ownership is because you don't agree with the direction of the CCIP. We try to build consensus around a CCIP, but if that's not possible, you can always submit a competing CCIP.   
