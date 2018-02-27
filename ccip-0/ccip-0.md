@@ -41,7 +41,7 @@
 
 ## 3. CCIP Work Flow  
 **3a.** A CCIP editor assigns a CCIP number and changes the status.  
-**3b.** Please send all CCIP-related email to the CCIP editor, which is listed under [CIP Editors](#cip-editors) below. Also see [CIP Editor Responsibilities & Workflow](#cip-editor-responsibilities--workflow).  
+**3b.** Please send all CCIP-related email to the CCIP editor, which is listed under [CCIP Editors](#cip-editors) below. Also see [CCIP Editor Responsibilities & Workflow](#cip-editor-responsibilities--workflow).  
 **3c.** The CCIP process begins with a new idea for Counterparty Cash. It is highly recommended that a single CCIP contain a single key proposal or new idea. Small enhancements or patches often don't need a CCIP and can be injected into the Counterparty Cash development work flow with a patch submission to the Counterparty Cash issue tracker. 
 **3d.** The more focused the CCIP, the more successful it tends to be. The CCIP editor reserves the right to reject CCIP proposals if they appear too unfocused or too broad. If in doubt, split your CCIP into several well-focused ones.  
 **3e.** Each CCIP must have a champion -- someone who writes the CCIP using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The CCIP champion (a.k.a. Author) should first attempt to ascertain whether the idea is CCIP-able. Posting to the [talk.counterparty.cash forums](https://counterpartytalk.org/c/development) or discussing it in the [Counterparty Slack](http://slack.counterparty.io/) is the best way to go about this.  
