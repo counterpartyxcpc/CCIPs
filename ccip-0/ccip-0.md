@@ -46,8 +46,8 @@
 **3d.** The CCIP process begins with a new idea for Counterparty Cash.  
 **3e.** It is highly recommended that a single CCIP contain a single key proposal or new idea.  
 **3f.** Small enhancements or patches often don't need a CCIP and can be injected into the Counterparty Cash development work flow with a patch submission to the Counterparty Cash issue tracker.  
-**3g.** The more focused the CCIP, the more successful it tends to be.
-**3h.** The CCIP editor reserves the right to reject CCIP proposals if they appear too unfocused or too broad. If in doubt, split your CCIP into several well-focused ones.
+**3g.** The more focused the CCIP, the more successful it tends to be.  
+**3h.** The CCIP editor reserves the right to reject CCIP proposals if they appear too unfocused or too broad. If in doubt, split your CCIP into several well-focused ones.  
 **3i.** Each CCIP must have a champion -- someone who writes the CCIP using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea.  
 **3j.** The CCIP champion (a.k.a. Author) should first attempt to ascertain whether the idea is CCIP-able. Posting to the [talk.counterparty.cash forums](https://counterpartytalk.org/c/development) or discussing it in the [Counterparty Slack](http://slack.counterparty.io/) is the best way to go about this.  
 **3k.** Vetting an idea publicly before going as far as writing a CCIP is meant to save the potential author time. Many ideas have been brought forward for changing Counterparty that have been rejected for various reasons.  
