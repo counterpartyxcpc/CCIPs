@@ -15,7 +15,7 @@
 **1c.** The CCIP should provide a concise technical specification.  
 **1d.** Authors MUST outline the feature and a rationale for the feature.  
 **1e.** We intend CCIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Counterparty Cash.  
-**1f.** The CCIP author(s) is responsible for building consensus within the community and documenting dissenting opinions.  
+**1f.** The CCIP author(s) is(are) responsible for building consensus within the community and documenting dissenting opinions.  
 **1g.** Because the CCIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.  
 
 ## 2. CCIP Types: There are three Types of CCIP.  
