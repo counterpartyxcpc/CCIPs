@@ -20,7 +20,7 @@
 
 ## 2. CCIP Types: There are three Types of CCIP.  
 **2a.** **(1) Standards Track:**  
-**2b.** Standards Track CCIPs Must describe a change which will affect between >1/10th and all Counterparty implementations, such as a change to the network protocol, a change in block or transaction validity rules.  
+**2b.** Standards Track CCIPs Must describe a change which will affect between >1/10th and all Counterparty Cash implementations, such as a change to the network protocol, a change in block or transaction validity rules.  
 **2c.** Standards track and any change or addition which affects the interoperability of applications using Counterparty should be considered candidate for elevation to a CCIP.  
 **2d.** **(2) Informational:**  
 **2e.** All Informational CCIPs describes Counterparty Cash design issues, provides general guidelines or document informal practices maintined within an organisation or indivdidual continbutor practice and add it to the record maintained at GitHub by the Counterparty Cash Assiciation (CCA).  
