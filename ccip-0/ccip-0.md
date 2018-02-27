@@ -67,7 +67,7 @@
 **3y.** CCIPs can also be superseded by a different CCIP, rendering the original obsolete. This is intended for Informational CCIPs, where version 2 of an API can replace version 1.  
 **3z.** The possible paths of the status of CCIPs are as follows:  
 <img src="https://raw.githubusercontent.com/CounterpartyXCPC/CCIPs/master/ccip-0/ccip-0_workflow_v1.svg?sanitize=true">
-**3aa.** Some Informational and Process CCIPs may also have a status of "Open" if they are never meant to be completed. E.g. CCIP 1 (this CCIP).  
+**3aa.** Some Informational and Process CCIPs may also have a status of "WIP" if they are never meant to be completed. E.g. CCIP-0 (this CCIP).  
 
 ## 4. What belongs in a successful CCIP?  
 **4a.** Each CCIP should have the following parts:  
