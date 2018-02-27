@@ -14,8 +14,9 @@
 **1b.** A CCIP is a design document providing information to the Counterparty Cash Assiciation (CCA), or describing a new feature for Counterparty Cash or its processes or environment.  
 **1c.** The CCIP should provide a concise technical specification.  
 **1d.** Authors MUST outline the feature and a rationale for the feature.  
-**1e.** We intend CCIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Counterparty Cash. The CCIP author(s) is responsible for building consensus within the community and documenting dissenting opinions.  
-**1f.** Because the CCIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.  
+**1e.** We intend CCIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into Counterparty Cash.  
+**1f.** The CCIP author(s) is responsible for building consensus within the community and documenting dissenting opinions.  
+**1g.** Because the CCIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.  
 
 ## 2. CCIP Types: There are three Types of CCIP.  
 **2a.** (1) Standards Track:  
